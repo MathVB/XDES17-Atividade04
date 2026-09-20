@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Shredder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Nave
+  - Municao
+  - Asteroid
+  - Shreeder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Municao
+    uniqueID: 764668243
+    locked: 0
+  - name: Asteroide
+    uniqueID: 347675965
+    locked: 0
+  - name: Nave
+    uniqueID: 4043783857
+    locked: 0
+  - name: VFX
+    uniqueID: 3295391893
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Layer 1
+  m_MigratedRenderPipelines: []
